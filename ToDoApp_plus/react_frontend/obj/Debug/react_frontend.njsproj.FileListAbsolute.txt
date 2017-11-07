@@ -1,0 +1,3 @@
+C:\Users\deaschu\Documents\GitHub\ToDo-App-plus\ToDoApp_plus\react_frontend\obj\Debug\react_frontend.njsprojResolveAssemblyReference.cache
+C:\Users\deaschu\Documents\GitHub\ToDo-App-plus\ToDoApp_plus\react_frontend\obj\Debug\react_frontend.njsproj.CoreCompileInputs.cache
+C:\Users\deaschu\Documents\GitHub\ToDo-App-plus\ToDoApp_plus\react_frontend\bin\Microsoft.NodejsTools.WebRole.dll
